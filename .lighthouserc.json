@@ -1,0 +1,14 @@
+{
+  "ci": {
+    "collect": {
+      "puppeteerScript":"./test/lighthouse/harvestProd.js",
+      "url": [
+        "https://goblincalcium.site/"
+      ]
+    },
+    "upload": {
+      "target": "filesystem",
+      "outputDir": "./tmp/lighthouseci"
+    }
+  }
+}

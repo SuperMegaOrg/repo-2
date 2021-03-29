@@ -1,0 +1,18 @@
+{
+  "ci": {
+    "collect": {
+      "puppeteerScript":"./test/lighthouse/harvestProd.js",
+      "url": [
+        "https://lighthousereporting.harvestapp.com/time",
+        "https://lighthousereporting.harvestapp.com/projects?filter=active",
+        "https://lighthousereporting.harvestapp.com/invoices?page=1&per_page=50&tab=open",
+        "https://www.getharvest.com",
+        "https://id.getharvest.com/accounts"
+      ]
+    },
+    "upload": {
+      "target": "filesystem",
+      "outputDir": "./tmp/lighthouseci"
+    }
+  }
+}

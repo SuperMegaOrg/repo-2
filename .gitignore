@@ -1,0 +1,4 @@
+/.npm
+/.lighthouseci/*
+/node_modules
+/node_modules/*

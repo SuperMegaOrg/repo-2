@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://goblincalcium.site/",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\cygwin64\\home\\beth\\node\\lighthouse-ci-project\\tmp\\lighthouseci\\goblincalcium_site-_-2021_03_29_09_18_06.report.html",
+    "jsonPath": "C:\\cygwin64\\home\\beth\\node\\lighthouse-ci-project\\tmp\\lighthouseci\\goblincalcium_site-_-2021_03_29_09_18_06.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.38,
+      "best-practices": 0.87,
+      "seo": 0.5,
+      "pwa": 0.17
+    }
+  },
+  {
+    "url": "https://goblincalcium.site/",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\cygwin64\\home\\beth\\node\\lighthouse-ci-project\\tmp\\lighthouseci\\goblincalcium_site-_-2021_03_29_09_18_16.report.html",
+    "jsonPath": "C:\\cygwin64\\home\\beth\\node\\lighthouse-ci-project\\tmp\\lighthouseci\\goblincalcium_site-_-2021_03_29_09_18_16.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.38,
+      "best-practices": 0.87,
+      "seo": 0.5,
+      "pwa": 0.17
+    }
+  },
+  {
+    "url": "https://goblincalcium.site/",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\cygwin64\\home\\beth\\node\\lighthouse-ci-project\\tmp\\lighthouseci\\goblincalcium_site-_-2021_03_29_09_18_11.report.html",
+    "jsonPath": "C:\\cygwin64\\home\\beth\\node\\lighthouse-ci-project\\tmp\\lighthouseci\\goblincalcium_site-_-2021_03_29_09_18_11.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.38,
+      "best-practices": 0.87,
+      "seo": 0.5,
+      "pwa": 0.17
+    }
+  }
+]
